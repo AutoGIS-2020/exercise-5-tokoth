@@ -20,5 +20,5 @@ Edit the text below and add links to the maps that you have created:
  - [My interactive map]()
  
  You can check syntax for formatting the links in here: 
- - [Link to test map](https://autogis-2020.github.io/exercise-5-VuokkoH/test_map.html)
+ - [Link to test map](https://autogis-2020.github.io/exercise-5-tokoth/roads.html)
 
